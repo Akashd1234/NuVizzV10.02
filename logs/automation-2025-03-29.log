@@ -1,0 +1,60 @@
+23:49:36.255 [main] INFO  testCases.Tc01_ManageUser -***********Starting testCase*************
+23:49:37.362 [main] INFO  testCases.Tc01_ManageUser -*Launching application****
+23:49:37.382 [main] INFO  testCases.Tc01_ManageUser -**Navigating to the user screen****
+23:51:25.575 [main] INFO  testCases.Tc01_ManageUser -****Clicking on add new user****
+23:51:42.619 [main] ERROR testCases.Tc01_ManageUser -Test failed
+23:56:24.010 [main] INFO  testCases.Tc01_ManageUser -***********Starting testCase*************
+23:56:24.908 [main] INFO  testCases.Tc01_ManageUser -*Launching application****
+23:56:24.918 [main] INFO  testCases.Tc01_ManageUser -**Navigating to the user screen****
+23:56:41.702 [main] INFO  testCases.Tc01_ManageUser -****Clicking on add new user****
+23:57:05.045 [main] ERROR testCases.Tc01_ManageUser -Test failed
+16:02:01.895 [main] INFO  testCases.Tc01_ManageUser -***********Starting testCase*************
+16:02:02.580 [main] INFO  testCases.Tc01_ManageUser -*Launching application****
+16:02:02.590 [main] INFO  testCases.Tc01_ManageUser -**Navigating to the user screen****
+16:02:19.291 [main] INFO  testCases.Tc01_ManageUser -****Clicking on add new user****
+16:02:37.748 [main] ERROR testCases.Tc01_ManageUser -Test failed
+16:31:28.383 [main] INFO  testCases.Tc01_ManageUser -***********Starting testCase*************
+16:31:29.183 [main] INFO  testCases.Tc01_ManageUser -*Launching application****
+16:31:29.194 [main] INFO  testCases.Tc01_ManageUser -**Navigating to the user screen****
+16:33:51.942 [main] INFO  testCases.Tc01_ManageUser -****Clicking on add new user****
+16:36:47.961 [main] INFO  testCases.Tc01_ManageUser -***********Starting testCase*************
+16:36:48.627 [main] INFO  testCases.Tc01_ManageUser -*Launching application****
+16:36:48.643 [main] INFO  testCases.Tc01_ManageUser -**Navigating to the user screen****
+16:37:21.705 [main] INFO  testCases.Tc01_ManageUser -****Clicking on add new user****
+16:37:40.083 [main] ERROR testCases.Tc01_ManageUser -Test failed
+16:38:12.006 [main] INFO  testCases.Tc01_ManageUser -***********Starting testCase*************
+16:38:12.604 [main] INFO  testCases.Tc01_ManageUser -*Launching application****
+16:38:12.619 [main] INFO  testCases.Tc01_ManageUser -**Navigating to the user screen****
+16:40:42.575 [main] INFO  testCases.Tc01_ManageUser -****Clicking on add new user****
+16:41:01.051 [main] ERROR testCases.Tc01_ManageUser -Test failed
+16:44:52.602 [main] INFO  testCases.Tc01_ManageUser -***********Starting testCase*************
+16:44:53.435 [main] INFO  testCases.Tc01_ManageUser -*Launching application****
+16:44:53.452 [main] INFO  testCases.Tc01_ManageUser -**Navigating to the user screen****
+16:45:07.518 [main] INFO  testCases.Tc01_ManageUser -****Clicking on add new user****
+16:45:07.653 [main] ERROR testCases.Tc01_ManageUser -Test failed
+16:46:05.697 [main] INFO  testCases.Tc01_ManageUser -***********Starting testCase*************
+16:46:06.361 [main] INFO  testCases.Tc01_ManageUser -*Launching application****
+16:46:06.382 [main] INFO  testCases.Tc01_ManageUser -**Navigating to the user screen****
+16:46:20.725 [main] INFO  testCases.Tc01_ManageUser -****Clicking on add new user****
+20:22:59.318 [main] INFO  testCases.Tc01_ManageUser -***********Starting testCase*************
+20:22:59.868 [main] INFO  testCases.Tc01_ManageUser -*Launching application****
+20:22:59.877 [main] INFO  testCases.Tc01_ManageUser -**Navigating to the user screen****
+20:25:30.375 [main] INFO  testCases.Tc01_ManageUser -****Clicking on add new user****
+22:24:45.688 [main] INFO  testCases.Tc01_ManageUser -***********Starting testCase*************
+22:24:46.550 [main] INFO  testCases.Tc01_ManageUser -*Launching application****
+22:24:46.574 [main] INFO  testCases.Tc01_ManageUser -**Navigating to the user screen****
+22:25:34.892 [main] INFO  testCases.Tc01_ManageUser -****Clicking on add new user****
+12:59:45.008 [main] INFO  testCases.Tc01_ManageUser -***********Starting testCase*************
+13:00:00.137 [main] ERROR testCases.Tc01_ManageUser -Test failed
+22:37:16.989 [main] INFO  testCases.TC003_DDT -********TC started***********
+22:37:25.952 [main] INFO  testCases.TC003_DDT -********TC started***********
+22:37:41.066 [main] INFO  testCases.TC003_DDT -********TC started***********
+22:37:56.143 [main] INFO  testCases.TC003_DDT -********TC started***********
+22:46:06.917 [main] INFO  testCases.TC003_DDT -********TC started***********
+22:46:27.718 [main] INFO  testCases.TC003_DDT -********TC started***********
+22:46:42.772 [main] INFO  testCases.TC003_DDT -********TC started***********
+22:46:57.803 [main] INFO  testCases.TC003_DDT -********TC started***********
+22:53:34.190 [main] INFO  testCases.TC003_DDT -********TC started***********
+22:54:03.914 [main] INFO  testCases.TC003_DDT -********TC started***********
+22:54:19.009 [main] INFO  testCases.TC003_DDT -********TC started***********
+22:56:30.619 [main] INFO  testCases.TC003_DDT -********TC started***********
